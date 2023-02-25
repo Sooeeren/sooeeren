@@ -14,16 +14,16 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" style="margin-bottom: 25px">
-<h5>It's me, @oxince!<em><br>a Self-taught full-stack developer</br>
+<h5>It's me, @sooeeren!<em><br>a Self-taught full-stack developer</br>
 </em></h5>
 
 <p align="center">
-  <a href="https://github.com/oxince?tab=repositories&sort=stargazers">
+  <a href="https://github.com/sooeeren?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Foxince"/></a>
-  <a href="https://github.com/oxince?tab=followers">
+  <a href="https://github.com/sooeeren?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/oxince?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-  <a href="https://github.com/oxince/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=oxince&style=for-the-badge&color=lightgrey"/></a>
+  <a href="https://github.com/sooeeren/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=sooeeren&style=for-the-badge&color=lightgrey"/></a>
 </p>
 
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
