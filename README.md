@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ##🌹
 
-[[![Discord](https://discord.gg/yGPqaDUsZR)](https://img.shields.io/date/8000540814400)
+[![Discord](https://discord.gg/yGPqaDUsZR)](https://img.shields.io/date/8000540814400)
 
 ## 🌍 Socials
 
