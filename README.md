@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## My Discord 🌹
 
-<iframe src="https://ptb.discord.com/widget?id=1056625672371581021&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+[![Discord](https://lanyard.cnrad.dev/api/1056625672371581021)](https://discord.com/users/975044147507503104)
 
 ## 🌍 Socials
 
