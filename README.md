@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- 
 <div align="center" style="margin-bottom: 25px">
 <h5>It's me, @sooeeren!<em><br>a Self-taught Frontend developer</br>
 </em></h5>
@@ -32,3 +33,19 @@ Here are some ideas to get you started:
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="30" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"></code>
 </div>
+
+-->
+
+## 🌍Socials
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
+
+## 💻Tech Stack
+
+![Html](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E)
+![Css](https://img.shields.io/badge/Css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
+![Vue JS](https://img.shields.io/badge/Vue-%23323330.svg?style=for-the-badge&logo=Vue&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jquery](https://img.shields.io/badge/Jquery-%23323330.svg?style=for-the-badge&logo=Jquery&logoColor=%23F7DF1E)
+
+![Figma](https://img.shields.io/badge/Figma-FF6600?style=for-the-badge&logo=Figma&logoColor=white)
