@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## My Discord 🌹
 
-[![Discord](https://lanyard.cnrad.dev/api/1056625672371581021)](https://discord.com/users/975044147507503104)
+[![Discord]([https://discord.com/users/975044147507503104](https://ptb.discord.com/widget?id=1056625672371581021&theme=dark))
 
 ## 🌍 Socials
 
