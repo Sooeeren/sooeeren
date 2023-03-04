@@ -54,5 +54,3 @@ Here are some ideas to get you started:
 
 ![Follower](https://img.shields.io/github/followers/sooeeren?style=social)
 ![Stars](https://img.shields.io/github/stars/sooeeren?style=social)
-![1click2development](https://img.shields.io/discord/1056625672371581021)
-
