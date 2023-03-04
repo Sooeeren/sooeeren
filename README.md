@@ -36,11 +36,15 @@ Here are some ideas to get you started:
 
 -->
 
-## 🌍Socials
+## My Discord 🌹
+
+<iframe src="https://ptb.discord.com/widget?id=1056625672371581021&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+## 🌍 Socials
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
 
-## 💻Tech Stack
+## 💻 Tech Stack
 
 ![Html](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E)
 ![Css](https://img.shields.io/badge/Css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
@@ -49,3 +53,10 @@ Here are some ideas to get you started:
 ![Jquery](https://img.shields.io/badge/Jquery-%23323330.svg?style=for-the-badge&logo=Jquery&logoColor=%23F7DF1E)
 
 ![Figma](https://img.shields.io/badge/Figma-FF6600?style=for-the-badge&logo=Figma&logoColor=white)
+
+## 💖 Extras
+
+![Follower](https://img.shields.io/github/followers/sooeeren?style=social)
+![Stars](https://img.shields.io/github/stars/sooeeren?style=social)
+![1click2development](https://img.shields.io/discord/1056625672371581021)
+
