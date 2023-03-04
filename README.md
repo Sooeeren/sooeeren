@@ -43,7 +43,6 @@ Here are some ideas to get you started:
 ## 🌍 Socials
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
-[![Discord Presence](https://lanyard.cnrad.dev/api/868524093664800839)](https://discord.com/users/868524093664800839)
 
 ## 💻 Tech Stack
 
