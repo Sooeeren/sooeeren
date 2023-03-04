@@ -36,9 +36,9 @@ Here are some ideas to get you started:
 
 -->
 
-## My Discord 🌹
+##🌹
 
-[![Discord](https://discord.gg/yGPqaDUsZR)
+[[![Discord](https://discord.gg/yGPqaDUsZR)](https://img.shields.io/date/8000540814400)
 
 ## 🌍 Socials
 
