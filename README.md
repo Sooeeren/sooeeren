@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 
 -->
 
-##🌹
-
-[![Date](https://img.shields.io/date/8000540814400)
-
 ## 🌍 Socials
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
