@@ -40,6 +40,6 @@ Here are some ideas to get you started:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
 
-## 💻 <h5>It's me, @sooeeren!<em><br>a Self-taught Frontend developer</br>
+## 💻 About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Joyride++STD&pause=500&color=32DAFF&width=600&lines=Hey+its+me+Sooeeren+%7C+S%C3%B6ren%230001;A+Self+Taught+Frontend+Developer+(Fivem+Based);Contect+me+on+Discord+%7C+S%C3%B6ren%230001)](https://git.io/typing-svg)
