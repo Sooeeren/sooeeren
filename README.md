@@ -40,17 +40,6 @@ Here are some ideas to get you started:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
 
-## 💻 Tech Stack
+## 💻 <h5>It's me, @sooeeren!<em><br>a Self-taught Frontend developer</br>
 
-![Html](https://img.shields.io/badge/Bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E)
-![Css](https://img.shields.io/badge/Css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
-![Vue JS](https://img.shields.io/badge/Vue-%23323330.svg?style=for-the-badge&logo=Vue&logoColor=%23F7DF1E)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Jquery](https://img.shields.io/badge/Jquery-%23323330.svg?style=for-the-badge&logo=Jquery&logoColor=%23F7DF1E)
-
-![Figma](https://img.shields.io/badge/Figma-FF6600?style=for-the-badge&logo=Figma&logoColor=white)
-
-## 💖 Extras
-
-![Follower](https://img.shields.io/github/followers/sooeeren?style=social)
-![Stars](https://img.shields.io/github/stars/sooeeren?style=social)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Joyride++STD&pause=500&color=32DAFF&center=true&width=435&lines=Hey+its+me+Sooeeren;A+Self+Taught+Frontend+Dev;Contect+me+on+Discord+%7C+S%C3%B6ren%230001)](https://git.io/typing-svg)
