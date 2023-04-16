@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ## 💻Tech Stack
 
-![Vue](https://img.shields.io/badge/vue-%23323330.svg?style=for-the-badge&logo=vue&logoColor=%23F7DF1E)
+![Vue.Js](https://img.shields.io/badge/vuejs-%23323330.svg?style=for-the-badge&logo=vuejs&logoColor=%23F7DF1E)
 ![Html](https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=Html&logoColor=%23F7DF1E)
 ![Css](https://img.shields.io/badge/Css-%23323330.svg?style=for-the-badge&logo=Css&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=React&logoColor=%23F7DF1E)
