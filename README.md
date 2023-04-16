@@ -36,6 +36,10 @@ Here are some ideas to get you started:
 
 -->
 
+<div align="center" style="margin-bottom: 25px">
+<h5>It's me, @sooeeren!<em><br>a Self-taught Frontend developer</br>
+</em></h5>
+
 ## 🌍 Socials
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
