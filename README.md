@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=React&logoColor=%23F7DF1E)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![Figma](https://img.shields.io/badge/Figma-FF6600?style=for-the-badge&logo=Figma&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23323330?style=for-the-badge&logo=Figma&logoColor=white)
 
 ## 📂 About Me
 
