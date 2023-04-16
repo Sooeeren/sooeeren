@@ -40,6 +40,16 @@ Here are some ideas to get you started:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
 
-## 💻 About Me
+## 💻Tech Stack
+
+![Vue](https://img.shields.io/badge/vue-%23323330.svg?style=for-the-badge&logo=vue&logoColor=%23F7DF1E)
+![Html](https://img.shields.io/badge/Html-%23323330.svg?style=for-the-badge&logo=Html&logoColor=%23F7DF1E)
+![Css](https://img.shields.io/badge/Css-%23323330.svg?style=for-the-badge&logo=Css&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%23323330.svg?style=for-the-badge&logo=React&logoColor=%23F7DF1E)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+![Figma](https://img.shields.io/badge/Figma-FF6600?style=for-the-badge&logo=Figma&logoColor=white)
+
+## 📂 About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Joyride++STD&pause=500&color=32DAFF&width=600&lines=Hey+its+me+Sooeeren+%7C+S%C3%B6ren%230001;A+Self+Taught+Frontend+Developer+(Fivem+Based);Contect+me+on+Discord+%7C+S%C3%B6ren%230001)](https://git.io/typing-svg)
