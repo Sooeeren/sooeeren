@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 
 ## 📂 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Joyride++STD&pause=500&color=32DAFF&width=600&lines=Hey+its+me+Sooeeren+%7C+S%C3%B6ren%230001;A+Self+Taught+Frontend+Developer+(Fivem+Based);Contect+me+on+Discord+%7C+S%C3%B6ren%230001)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Joyride++STD&pause=500&color=32DAFF&width=600&lines=Hey+its+me+Sooeeren+%7C+S%C3%B6ren%230001;A+Self+Taught+Frontend+Developer;Contect+me+on+Discord+%7C+S%C3%B6ren%230001)](https://git.io/typing-svg)
