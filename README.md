@@ -35,15 +35,14 @@ Here are some ideas to get you started:
 </div>
 
 -->
-<!--
 
 <div align="center" style="margin-bottom: 25px">
-<h5>It's me, @sooeeren!<em><br>a Self-taught ✨ Frontend developer ✨</br>
+<h5>It's me, @sooeeren!<em><br>a Self-taught ✨ Pfuscher ✨</br>
 </em></h5>
 
 ## 🌍 Socials
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/975044147507503104)](https://discord.com/users/975044147507503104)
+@Sooeeren
 
 ## 💻Tech Stack
 
@@ -57,8 +56,16 @@ Here are some ideas to get you started:
 
 ## 📂 About Me
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Joyride++STD&pause=500&color=32DAFF&width=600&lines=Hey+its+me+Sooeeren+%7C+S%C3%B6ren%230001;A+Self+Taught+Frontend+Developer;Contect+me+on+Discord+%7C+S%C3%B6ren%230001)](https://git.io/typing-svg)
+Being a "pfuscher" in frontend development can be seen as a playful acknowledgment of my journey in this field. Here are a few reasons why I embrace this label:
 
--->
+1. **Learning Through Experimentation**: I often dive into projects without a complete understanding of every technology or framework involved. This hands-on approach allows me to learn by doing, even if it means making mistakes along the way. Each "pfuscher" moment is an opportunity to grow and refine my skills.
 
-# Self-taught Pfuscher 👍👍👍👍🤣🤣🤣❤️❤️❤️❤️😒😒😒😘😘😘😂😂😂😂
+2. **Creative Problem Solving**: Sometimes, I find myself taking unconventional routes to solve problems. While this might not always align with best practices, it often leads to unique solutions that push the boundaries of traditional frontend development.
+
+3. **Embracing Imperfection**: I recognize that perfection is an unrealistic goal in development. By accepting that I might not always get things right on the first try, I can focus on progress rather than perfection. This mindset encourages me to iterate and improve continuously.
+
+4. **Collaboration and Community**: Being a "pfuscher" means I’m not afraid to ask for help or seek advice from others. I value collaboration and often turn to the developer community for support, which enriches my learning experience and fosters a sense of belonging.
+
+5. **Passion for Frontend Development**: Ultimately, my enthusiasm for frontend development drives me to keep experimenting and exploring new technologies. Whether I’m trying out a new library or redesigning a user interface, my passion fuels my journey, even if it means embracing a "pfuscher" mentality.
+
+In conclusion, being a "pfuscher" in frontend development reflects my commitment to learning, creativity, and collaboration. It’s a reminder that the path to mastery is filled with experimentation and growth.
