@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
+<!--
 <div align="center" style="margin-bottom: 25px">
 <h5>It's me, @sooeeren!<em><br>a Self-taught Frontend developer</br>
 </em></h5>
@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 -->
+<!--
 
 <div align="center" style="margin-bottom: 25px">
 <h5>It's me, @sooeeren!<em><br>a Self-taught ✨ Frontend developer ✨</br>
@@ -57,3 +58,41 @@ Here are some ideas to get you started:
 ## 📂 About Me
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Joyride++STD&pause=500&color=32DAFF&width=600&lines=Hey+its+me+Sooeeren+%7C+S%C3%B6ren%230001;A+Self+Taught+Frontend+Developer;Contect+me+on+Discord+%7C+S%C3%B6ren%230001)](https://git.io/typing-svg)
+
+-->
+
+# 👋 Hi there, I'm Soeren!
+
+I'm a self-taught **pfuscher** (a German term for a tinkerer) with a passion for web development. I love creating beautiful and functional web applications using modern technologies.
+
+## 🚀 My Tech Stack
+
+- **Languages:** 
+  - HTML
+  - CSS
+  - JavaScript
+
+- **Frameworks & Libraries:**
+  - Vue.js
+  - React
+
+## 🌱 Currently Learning
+
+I'm always eager to learn new technologies and improve my skills. Right now, I'm diving deeper into:
+- State management in Vue and React
+- Advanced CSS techniques
+- Building RESTful APIs
+
+## 💼 Projects
+
+Here are a few projects I've worked on:
+
+- [Project 1](link-to-your-project) - A brief description of what this project does.
+- [Project 2](link-to-your-project) - A brief description of what this project does.
+- [Project 3](link-to-your-project) - A brief description of what this project does.
+
+## 📫 How to Reach Me
+
+Feel free to connect with me on [LinkedIn](your-linkedin-profile) or check out my portfolio at [your-portfolio-link].
+
+Thanks for visiting my profile! 😊
