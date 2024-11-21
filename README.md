@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div>
 
 -->
-
+<!--
 <div align="center" style="margin-bottom: 25px">
 <h5>It's me, @sooeeren!<em><br>a Self-taught ✨ Pfuscher ✨</br>
 </em></h5>
@@ -55,17 +55,34 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/Figma-%23323330?style=for-the-badge&logo=Figma&logoColor=white)
 
 ## 📂 About Me
+-->
+<div align="center" style="margin-bottom: 25px;">
+  <h1>👋 Hey, I'm <span style="color: #42b883;">@Sooeeren!</span></h1>
+  <p><em>Self-taught ✨ Pfuscher ✨</em></p>
+</div>
 
-Being a "pfuscher" in frontend development can be seen as a playful acknowledgment of my journey in this field. Here are a few reasons why I embrace this label:
+<div align="center">
+  <h2>🌐 Connect with Me</h2>
+  <p><strong>@Sooeeren</strong> across all socials!</p>
+</div>
 
-1. **Learning Through Experimentation**: I often dive into projects without a complete understanding of every technology or framework involved. This hands-on approach allows me to learn by doing, even if it means making mistakes along the way. Each "pfuscher" moment is an opportunity to grow and refine my skills.
+<div align="center">
+  <h2>💻 My Tech Stack</h2>
+  <p>
+    <img src="https://img.shields.io/badge/Vue.js-%23323330?style=for-the-badge&logo=vue.js&logoColor=%42b883" alt="Vue.js" />
+    <img src="https://img.shields.io/badge/HTML-%23323330?style=for-the-badge&logo=html5&logoColor=orange" alt="HTML" />
+    <img src="https://img.shields.io/badge/CSS-%23323330?style=for-the-badge&logo=css3&logoColor=blue" alt="CSS" />
+    <img src="https://img.shields.io/badge/React-%23323330?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/Figma-%23323330?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  </p>
+</div>
 
-2. **Creative Problem Solving**: Sometimes, I find myself taking unconventional routes to solve problems. While this might not always align with best practices, it often leads to unique solutions that push the boundaries of traditional frontend development.
-
-3. **Embracing Imperfection**: I recognize that perfection is an unrealistic goal in development. By accepting that I might not always get things right on the first try, I can focus on progress rather than perfection. This mindset encourages me to iterate and improve continuously.
-
-4. **Collaboration and Community**: Being a "pfuscher" means I’m not afraid to ask for help or seek advice from others. I value collaboration and often turn to the developer community for support, which enriches my learning experience and fosters a sense of belonging.
-
-5. **Passion for Frontend Development**: Ultimately, my enthusiasm for frontend development drives me to keep experimenting and exploring new technologies. Whether I’m trying out a new library or redesigning a user interface, my passion fuels my journey, even if it means embracing a "pfuscher" mentality.
-
-In conclusion, being a "pfuscher" in frontend development reflects my commitment to learning, creativity, and collaboration. It’s a reminder that the path to mastery is filled with experimentation and growth.
+<div align="center">
+  <h2>📖 About Me</h2>
+  <p>
+    🔧 Crafting projects, solving puzzles, and bringing ideas to life. <br>
+    🎨 A mix of code, design, and creativity fuels my journey. <br>
+    🌱 Always learning, always growing.
+  </p>
+</div>
