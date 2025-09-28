@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 
-<p align="center">I'm Soeren, a developer who enjoys coding, building projects, and experimenting with new technologies.  <br>Some of my favorite tools and languages are:<br><br>- HTML, CSS, JavaScript  <br>- Vue.js  <br>- Java  <br>- Exploring Docker and Linux environments  <br><br>🎢 Big fan of roller coasters – I love designing, simulating, and experiencing them.  <br>💻 In my free time I also enjoy working on personal projects, homelab setups, and 3D printing.  <br>🌱 Always learning something new and improving my skills.</p>
+<p align="center">I'm Soeren, a developer who enjoys coding, building projects, and experimenting with new technologies.  <br>Some of my favorite tools and languages are:<br><br>- HTML, CSS, JavaScript  <br>- Vue.js  <br>- Java  <br>- Exploring Docker and Linux environments  <br><br>🎢 Big fan of roller coasters - I love designing, simulating, and experiencing them.  <br>💻 In my free time I also enjoy working on personal projects, homelab setups, and 3D printing.  <br>🌱 Always learning something new and improving my skills.</p>
 
 <hr>
 
