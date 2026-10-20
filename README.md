@@ -1,17 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Hey%2C%20I'm%20Soeren&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Vibe%20coder%20%E2%80%A2%20Roller%20coaster%20nerd&descSize=18&descAlignY=62" alt="Hey, I'm Soeren: vibe coder and roller coaster nerd" width="100%" />
-
-<a href="https://github.com/Sooeeren">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=Vibe+coding+with+Vue+%26+TypeScript;Shipping+side+projects+in+Docker;Designing+coasters+in+NoLimits+2;Always+learning+something+new" alt="Typing animation" />
-</a>
-
-<br>
-
-[![Profile views](https://komarev.com/ghpvc/?username=Sooeeren&label=views&color=1f6feb&style=flat-square)](https://github.com/Sooeeren)
-[![Followers](https://img.shields.io/github/followers/Sooeeren?label=followers&logo=github&style=flat-square&color=1f6feb)](https://github.com/Sooeeren?tab=followers)
-[![Stars](https://img.shields.io/github/stars/Sooeeren?label=stars&logo=github&style=flat-square&color=1f6feb)](https://github.com/Sooeeren?tab=repositories)
-
 </div>
 
 ## 👋 About me
