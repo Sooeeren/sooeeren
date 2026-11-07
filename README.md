@@ -1,42 +1,72 @@
 <div align="center">
 
 <img src="https://github.com/Sooeeren/Sooeeren/raw/main/space-logo.svg" alt="Sooeeren: vibe coding" width="100%" />
+
+<br />
+
+Vibe coding my way through side projects.<br />
+Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and Linux.
+
+<br />
+
+<a href="#-featured">Featured</a> &nbsp;·&nbsp;
+<a href="#-stack">Stack</a> &nbsp;·&nbsp;
+<a href="#-stats">Stats</a> &nbsp;·&nbsp;
+<a href="#-activity">Activity</a>
+
 </div>
 
-## 🧰 Tech stack
+<br />
+
+## ✦ Featured
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,jquery,nodejs,docker,linux,mysql,git,github,githubactions,vscode,idea,figma&perline=9" alt="Vue, TypeScript, JavaScript, HTML, CSS, Tailwind, jQuery, Node.js, Docker, Linux, MySQL, Git, GitHub, GitHub Actions, VS Code, IntelliJ IDEA, Figma" />
+<a href="https://github.com/Sooeeren/CaretFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sooeeren&repo=CaretFlow&title_color=2dd4bf&text_color=c9d1d9&icon_color=d9822b&bg_color=0b1214&border_color=1b2a2c&border_radius=12" alt="CaretFlow" />
+</a>
 
 </div>
 
-## 📊 GitHub stats
+<br />
+
+## ✦ Stack
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sooeeren&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-</td>
-<td align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooeeren&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Most used languages" />
-</td>
-</tr>
-<tr>
-<td colspan="2" align="center">
-<img height="165" src="https://streak-stats.demolab.com?user=Sooeeren&theme=tokyonight&hide_border=true" alt="Contribution streak" />
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=vue,ts,js,html,css,tailwind,nodejs&theme=dark&perline=7" alt="Languages and frameworks: Vue, TypeScript, JavaScript, HTML, CSS, Tailwind, Node.js" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=docker,linux,mysql,git,github,githubactions&theme=dark&perline=6" alt="Infrastructure and tooling: Docker, Linux, MySQL, Git, GitHub, GitHub Actions" />
+<br /><br />
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,jquery&theme=dark&perline=4" alt="Editors and design: VS Code, IntelliJ IDEA, Figma, jQuery" />
 
 </div>
 
-## 🐍 Contribution snake
+<br />
+
+## ✦ Stats
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Sooeeren/Sooeeren/output/snake.svg" alt="Snake eating my contribution graph" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Sooeeren&show_icons=true&hide_border=false&count_private=true&include_all_commits=true&rank_icon=github&title_color=2dd4bf&text_color=c9d1d9&icon_color=d9822b&bg_color=0b1214&border_color=1b2a2c&border_radius=12" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sooeeren&layout=compact&langs_count=6&title_color=2dd4bf&text_color=c9d1d9&bg_color=0b1214&border_color=1b2a2c&border_radius=12" alt="Most used languages" />
+
+<br />
+
+<img height="165" src="https://streak-stats.demolab.com?user=Sooeeren&background=0b1214&border=1b2a2c&stroke=1b2a2c&ring=2dd4bf&fire=d9822b&currStreakNum=eafff6&sideNums=eafff6&currStreakLabel=2dd4bf&sideLabels=a9c9c3&dates=a9c9c3&border_radius=12" alt="Contribution streak" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=90&section=footer" alt="" width="100%" />
+<br />
+
+## ✦ Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sooeeren/Sooeeren/output/snake.svg" alt="Snake eating my contribution graph" />
+
+</div>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f8f9a,100:04090a&height=90&section=footer" alt="" width="100%" />
