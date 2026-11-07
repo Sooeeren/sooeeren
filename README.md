@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=190&section=header&text=Hey%2C%20I'm%20Soeren&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Vibe%20coder&descSize=18&descAlignY=62" alt="Hey, I'm Soeren: Another vibe coder" width="100%" />
+<img src="https://github.com/Sooeeren/Sooeeren/raw/main/space-logo.svg" alt="Sooeeren: vibe coding" width="100%" />
 </div>
 
 ## 🧰 Tech stack
