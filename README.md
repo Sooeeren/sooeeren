@@ -49,8 +49,8 @@ Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sooeeren/Sooeeren/output/snake.svg" alt="Snake eating my contribution graph" />
+<img src="https://raw.githubusercontent.com/Sooeeren/Sooeeren/output/snake.svg?v=2" alt="Snake eating my contribution graph" />
 
 </div>
 
-<img src="https://github.com/Sooeeren/Sooeeren/raw/main/footer.svg" alt="" width="100%" />
+<img src="https://github.com/Sooeeren/Sooeeren/raw/main/footer.svg?v=2" alt="" width="100%" />
