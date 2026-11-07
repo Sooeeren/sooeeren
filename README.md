@@ -29,7 +29,7 @@ Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and 
 
 <div align="center">
 
-<img src="https://github.com/Sooeeren/Sooeeren/raw/main/stack-card.svg" alt="Tech stack: Vue, TypeScript, JavaScript, HTML, CSS, Tailwind, jQuery, Node.js, MySQL, Docker, Linux, Git, GitHub, GitHub Actions, VS Code, IntelliJ, Figma" width="100%" />
+<img src="https://github.com/Sooeeren/Sooeeren/raw/main/stack-card.svg?v=2" alt="Tech stack: Vue, TypeScript, JavaScript, HTML, CSS, Tailwind, jQuery, Node.js, MySQL, Tauri, Rust, Vite, WebAssembly, npm, PowerShell, Bash, Milkdown, ProseMirror, CodeMirror, KaTeX, Mermaid, Harper, LanguageTool, Docker, Linux, Git, GitHub, GitHub Actions, VS Code, IntelliJ, Figma" width="100%" />
 
 </div>
 
@@ -38,10 +38,6 @@ Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and 
 <div align="center">
 
 <img height="165" src="https://streak-stats.demolab.com?user=Sooeeren&background=0b1214&border=1b2a2c&stroke=1b2a2c&ring=2dd4bf&fire=d9822b&currStreakNum=eafff6&sideNums=eafff6&currStreakLabel=2dd4bf&sideLabels=a9c9c3&dates=a9c9c3&border_radius=12" alt="Contribution streak" />
-
-<p align="center">
-  <a href="https://github.com/Sooeeren?tab=followers"><img src="https://img.shields.io/github/followers/Sooeeren?style=flat-square&labelColor=0b1214&color=12805a&logo=github" alt="Followers" /></a>
-</p>
 
 </div>
 
@@ -52,5 +48,3 @@ Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and 
 <img src="https://raw.githubusercontent.com/Sooeeren/Sooeeren/output/snake.svg?v=2" alt="Snake eating my contribution graph" />
 
 </div>
-
-<img src="https://github.com/Sooeeren/Sooeeren/raw/main/footer.svg?v=2" alt="" width="100%" />
