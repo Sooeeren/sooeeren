@@ -53,4 +53,4 @@ Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and 
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f8f9a,100:04090a&height=90&section=footer" alt="" width="100%" />
+<img src="https://github.com/Sooeeren/Sooeeren/raw/main/footer.svg" alt="Thanks for stopping by" width="100%" />
