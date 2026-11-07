@@ -29,29 +29,7 @@ Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and 
 
 <div align="center">
 
-<table align="center">
-<tr>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vue&theme=dark" width="48" height="48" alt="Vue" /><br /><sub>Vue</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" height="48" alt="TypeScript" /><br /><sub>TypeScript</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" /><br /><sub>JavaScript</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" /><br /><sub>HTML</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" /><br /><sub>CSS</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="48" height="48" alt="Tailwind" /><br /><sub>Tailwind</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" /><br /><sub>Node.js</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker" /><br /><sub>Docker</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux&theme=dark" width="48" height="48" alt="Linux" /><br /><sub>Linux</sub></td>
-</tr>
-<tr>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" /><br /><sub>MySQL</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" /><br /><sub>Git</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" /><br /><sub>GitHub</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="Actions" /><br /><sub>Actions</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" /><br /><sub>VS Code</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea&theme=dark" width="48" height="48" alt="IntelliJ" /><br /><sub>IntelliJ</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" /><br /><sub>Figma</sub></td>
-<td align="center" width="90"><img src="https://skillicons.dev/icons?i=jquery&theme=dark" width="48" height="48" alt="jQuery" /><br /><sub>jQuery</sub></td>
-</tr>
-</table>
+<img src="https://github.com/Sooeeren/Sooeeren/raw/main/stack-card.svg" alt="Tech stack: Vue, TypeScript, JavaScript, HTML, CSS, Tailwind, jQuery, Node.js, MySQL, Docker, Linux, Git, GitHub, GitHub Actions, VS Code, IntelliJ, Figma" width="100%" />
 
 </div>
 
