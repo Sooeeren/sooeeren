@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 220" width="840" height="220" role="img" aria-label="CaretFlow: a fast, quiet Markdown editor for Windows and Linux">
+  <title>CaretFlow</title>
+  <defs>
+    <radialGradient id="teal" cx="0" cy="1" r="0.9">
+      <stop offset="0" stop-color="#0f8f9a" stop-opacity="0.38"/>
+      <stop offset="0.5" stop-color="#0f8f9a" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#0f8f9a" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="amber" cx="1" cy="0.2" r="0.8">
+      <stop offset="0" stop-color="#d9822b" stop-opacity="0.34"/>
+      <stop offset="0.5" stop-color="#d9822b" stop-opacity="0.10"/>
+      <stop offset="1" stop-color="#d9822b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <style>
+    text { font-family: -apple-system, "Segoe UI", Helvetica, Arial, sans-serif; }
+    .card  { opacity: 0; animation: fadein 1.4s ease-out forwards; }
+    .line  { opacity: 0; animation: fadein 1s ease-out forwards; }
+    .l1 { animation-delay: .5s; } .l2 { animation-delay: .7s; } .l3 { animation-delay: .9s; }
+    .l4 { animation-delay: 1.1s; } .l5 { animation-delay: 1.3s; }
+    @keyframes fadein { from { opacity: 0; } to { opacity: 1; } }
+    .caret { animation: caret 1.6s ease-in-out infinite; }
+    @keyframes caret { 0%, 100% { opacity: .15; } 50% { opacity: 1; } }
+    .glow { animation: breathe 9s ease-in-out infinite; }
+    @keyframes breathe { 0%, 100% { opacity: .75; } 50% { opacity: 1; } }
+  </style>
+
+  <g class="card">
+    <rect x="0.5" y="0.5" width="839" height="219" rx="16" fill="#0b1214" stroke="#1b2a2c"/>
+    <rect class="glow" x="0.5" y="0.5" width="839" height="219" rx="16" fill="url(#teal)"/>
+    <rect class="glow" x="0.5" y="0.5" width="839" height="219" rx="16" fill="url(#amber)"/>
+
+    <!-- text -->
+    <text x="36" y="46" font-size="11" font-weight="600" letter-spacing="3" fill="#2dd4bf">FEATURED PROJECT</text>
+    <text x="36" y="94" font-size="40" font-weight="700" fill="#eafff6">CaretFlow</text>
+    <text x="36" y="124" font-size="15" fill="#a9c9c3">A fast, quiet Markdown editor for Windows and Linux.</text>
+
+    <!-- feature chips -->
+    <g font-size="12" text-anchor="middle" fill="#d4fff0">
+      <rect x="36"  y="152" width="112" height="28" rx="14" fill="#12805a" fill-opacity=".18" stroke="#12805a" stroke-opacity=".7"/>
+      <text x="92"  y="170">Rendered view</text>
+      <rect x="158" y="152" width="86"  height="28" rx="14" fill="#12805a" fill-opacity=".18" stroke="#12805a" stroke-opacity=".7"/>
+      <text x="201" y="170">Vim mode</text>
+      <rect x="254" y="152" width="168" height="28" rx="14" fill="#12805a" fill-opacity=".18" stroke="#12805a" stroke-opacity=".7"/>
+      <text x="338" y="170">Spelling &amp; grammar check</text>
+      <rect x="432" y="152" width="92"  height="28" rx="14" fill="#12805a" fill-opacity=".18" stroke="#12805a" stroke-opacity=".7"/>
+      <text x="478" y="170">PDF export</text>
+    </g>
+
+    <!-- mini editor mock -->
+    <rect x="590" y="30" width="214" height="160" rx="10" fill="#060d0e" stroke="#1b2a2c"/>
+    <circle cx="606" cy="46" r="3.5" fill="#3a4b4d"/>
+    <circle cx="619" cy="46" r="3.5" fill="#3a4b4d"/>
+    <circle cx="632" cy="46" r="3.5" fill="#3a4b4d"/>
+    <rect class="line l1" x="606" y="66"  width="92"  height="9" rx="2" fill="#2dd4bf"/>
+    <rect class="line l2" x="606" y="90"  width="174" height="5" rx="2" fill="#2a3b3d"/>
+    <rect class="line l3" x="606" y="106" width="150" height="5" rx="2" fill="#2a3b3d"/>
+    <rect class="line l4" x="606" y="122" width="178" height="5" rx="2" fill="#2a3b3d"/>
+    <rect class="line l5" x="606" y="138" width="118" height="5" rx="2" fill="#2a3b3d"/>
+    <rect class="caret" x="729" y="132" width="2.5" height="16" rx="1" fill="#d9822b"/>
+    <rect class="line l5" x="606" y="160" width="140" height="5" rx="2" fill="#223234"/>
+  </g>
+</svg>
