@@ -2,9 +2,6 @@
 
 <img src="https://github.com/Sooeeren/Sooeeren/raw/main/space-logo.svg" alt="Sooeeren: vibe coding" width="100%" />
 
-Vibe coding my way through side projects.<br />
-Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and Linux.
-
 <a href="#-featured">Featured</a> &nbsp;·&nbsp;
 <a href="#-stack">Stack</a> &nbsp;·&nbsp;
 <a href="#-stats">Stats</a> &nbsp;·&nbsp;
@@ -19,9 +16,6 @@ Currently building **CaretFlow**, a fast, quiet Markdown editor for Windows and 
 <a href="https://github.com/Sooeeren/CaretFlow">
   <img src="https://github.com/Sooeeren/Sooeeren/raw/main/caretflow-card.svg" alt="CaretFlow: a fast, quiet Markdown editor for Windows and Linux" width="100%" />
 </a>
-
-<a href="https://github.com/Sooeeren/CaretFlow"><img src="https://img.shields.io/github/stars/Sooeeren/CaretFlow?style=flat-square&labelColor=0b1214&color=12805a&logo=github" alt="Stars" /></a>
-<a href="https://github.com/Sooeeren/CaretFlow/commits"><img src="https://img.shields.io/github/last-commit/Sooeeren/CaretFlow?style=flat-square&labelColor=0b1214&color=0f8f9a" alt="Last commit" /></a>
 
 </div>
 
