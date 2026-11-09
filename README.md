@@ -9,16 +9,6 @@
 
 </div>
 
-## ✦ Featured
-
-<div align="center">
-
-<a href="https://github.com/Sooeeren/CaretFlow">
-  <img src="https://github.com/Sooeeren/Sooeeren/raw/main/caretflow-card.svg" alt="CaretFlow: a fast, quiet Markdown editor for Windows and Linux" width="100%" />
-</a>
-
-</div>
-
 ## ✦ Stack
 
 <div align="center">
