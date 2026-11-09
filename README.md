@@ -2,11 +2,6 @@
 
 <img src="https://github.com/Sooeeren/Sooeeren/raw/main/space-logo.svg" alt="Sooeeren: vibe coding" width="100%" />
 
-<a href="#-featured">Featured</a> &nbsp;·&nbsp;
-<a href="#-stack">Stack</a> &nbsp;·&nbsp;
-<a href="#-stats">Stats</a> &nbsp;·&nbsp;
-<a href="#-activity">Activity</a>
-
 </div>
 
 ## ✦ Stack
