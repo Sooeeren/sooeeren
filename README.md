@@ -3,7 +3,7 @@
 <img src="https://github.com/Sooeeren/Sooeeren/raw/main/space-logo.svg" alt="Sooeeren: vibe coding" width="100%" />
 
 </div>
-
+<!--
 ## ✦ Stack
 
 <div align="center">
@@ -27,3 +27,4 @@
 <img src="https://raw.githubusercontent.com/Sooeeren/Sooeeren/output/snake.svg?v=2" alt="Snake eating my contribution graph" />
 
 </div>
+-->
