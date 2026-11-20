@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://github.com/Sooeeren/Sooeeren/raw/main/space-logo.svg" alt="Sooeeren: vibe coding" width="100%" />
+<img src="https://github.com/Sooeeren/Sooeeren/raw/main/space-logo.svg" alt="Sooeeren: Professional Claude Larper" width="100%" />
 
 </div>
 <!--
